@@ -1,1 +1,2 @@
-
+variable "ACCESS_KEY"{
+}
