@@ -20,3 +20,5 @@ module "ec2_instance" {
   vpc_id   = module.vpc.vpc_id
   subnet_id = module.vpc.subnet_id
 }
+variable "ACCESS_KEY"{
+}
