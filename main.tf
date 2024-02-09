@@ -22,3 +22,5 @@ module "ec2_instance" {
 }
 variable "ACCESS_KEY"{
 }
+variable "SECRET_ACCESS_KEY"{
+}
